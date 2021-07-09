@@ -15,15 +15,11 @@ software engineering to crime investigation.
 ## Screenshots
 [Click-me!](https://github.com/danipedro2006/Face-detection/blob/master/Screen-Recording-_12-6-2019-12-29-41-PM_.gif)
 
-
 ## Technologies
 * Java - version 1.8
 
-
-
 ## Status
 Project is: Completed and no longer maintained.
-
 
 ## Contact
 Created by @Danisoft Arad 2020(https://danipedro2006.github.io/) - feel free to contact me!
